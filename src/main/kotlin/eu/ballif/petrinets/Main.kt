@@ -1,3 +1,5 @@
+package eu.ballif.petrinets
+
 fun main(args: Array<String>) {
     println("Hello World!")
 

@@ -1,4 +1,4 @@
-package eu.ballif.petrinets.submodule
+package org.example.mypackage.submodule
 
 class TestClass {
     fun foo() {

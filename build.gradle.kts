@@ -3,7 +3,7 @@ plugins {
     application
 }
 
-group = "eu.ballif"
+group = "org.example"
 version = "1.0-SNAPSHOT"
 
 repositories {

@@ -1,6 +1,6 @@
-package eu.ballif.petrinets
+package org.example.mypackage
 
-import eu.ballif.petrinets.submodule.TestClass
+import org.example.mypackage.submodule.TestClass
 
 fun main(args: Array<String>) {
     println("Hello World!")
